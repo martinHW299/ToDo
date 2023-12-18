@@ -1,0 +1,30 @@
+# Node.js
+node_modules/
+
+# Dependency directories
+/dist/
+/tmp/
+/out-tsc/
+
+# Angular generated files
+*.js
+*.js.map
+*.d.ts
+*.metadata.json
+*.ngfactory.ts
+*.ngsummary.json
+__ng_compiler_private__/
+
+# System Files
+.DS_Store
+Thumbs.db
+
+# Editor directories and files
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw*
+

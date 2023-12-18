@@ -1,0 +1,23 @@
+@font-face {
+    font-family: 'Kanit';
+    src: url('../../assets/Kanit/Kanit-SemiBoldItalic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+  }
+
+h1 {
+    text-align: center;
+    font-size: 2rem;
+}
+
+a {
+    font-family: 'Kanit', sans-serif;
+}
+
+#submitButton {
+    margin-top: 20px;
+}
+
+#myCheckbox {
+    margin-left: 30px;
+}
